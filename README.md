@@ -1,3 +1,3 @@
-# misc
+## Example plugins for Newspilot Writer
 
-test
+Feel free to browse our examples.
